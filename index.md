@@ -68,11 +68,13 @@ Table of Contents
 
 - Paid software
 
-### Kalidoface ([Web version](https://lab.kalidoface.com/)) ✅
+### Kalidoface ([Web version](https://lab.kalidoface.com/)) ✅*
 
 [![Kalidoface](https://camo.githubusercontent.com/c6505d1e7b62dadc071ac158d664a0960d6cca688dd244c1d6031f4ba2e3b647/68747470733a2f2f6c61622e6b616c69646f666163652e636f6d2f696d672f64656d6f2e676966)](https://github.com/yeemachine/kalidoface)
 
 - VRM 1.0 support is not noted
+
+- **Tested with VRM 0.x*
 
 ### VMagicMirror
 
@@ -190,11 +192,13 @@ Table of Contents
 
 - VRM 1.0 support is not noted
 
-### Valheim ✅
+### Valheim ✅*
 
 [![ValheimVRM](https://staticdelivery.nexusmods.com/mods/3667/images/thumbnails/850/850-1617329148-925895598.png)](https://www.nexusmods.com/valheim/mods/850)
 
 - VRM 1.0 supports but dynamic bones not work
+
+- **Tested with VRM 0.x*
 
 ### Beat Saber ([Patreon](https://www.patreon.com/posts/nalulunaavatars-52013165)) ✅*
 
@@ -206,7 +210,7 @@ Table of Contents
 
 - Requirements: [BS Utils](https://github.com/Kylemc1413/Beat-Saber-Utils), [BeatSaberMarkupLanguage](https://github.com/monkeymanboy/BeatSaberMarkupLanguage)
 
-- **Tested only on 1.27 with lite version*
+- **Tested only on 1.27 with lite version with VRM 0.x*
 
 - VRM 1.0 support is not tested
 
@@ -218,7 +222,7 @@ Table of Contents
 
 - [Guide to install](https://www.reddit.com/r/Modding/comments/1jt3lul/modding_desktopmate_for_dummies/)
 
-- **Tested on first versions*
+- **Tested on first versions with VRM 0.x*
 
 
 
