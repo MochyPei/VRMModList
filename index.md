@@ -206,15 +206,15 @@ Table of Contents
 
 [![NalulunaAvatars](https://i.ytimg.com/vi_webp/AV6ADGSUNQ8/hq1.webp)]()
 
-- Paid mod (has lite versions)
+- Paid mod (has Lite versions)
 
-- All versions here is only lite ([1.13.0](https://drive.google.com/file/d/1hxzXRthMumKSuFx59gXOPvdv1eDkmHSI/), [1.13.2](https://drive.google.com/file/d/17ZnQvCgFaniWkaTn6QcpCYQCOGmezEtk/), [1.14.0](https://drive.google.com/file/d/1zVy8k4mpIZLqsPNMrwdHy3xRaaTo_tz4/), [1.16.2-1.16.3](https://drive.google.com/file/d/1Kn5X6SRsRo8gCepapd238Og6TMguznSH/), [1.17.0-1.19.1](https://drive.google.com/file/d/1ALQASIAfW35dB7ebAwgHDB7RwrgYzV5k/), [1.20-1.27](https://drive.google.com/file/d/1W3x3tVJ4E3K6y8NG9QZZvUijfceEX57A/))
+- All versions here is only Lite ([1.13.0](https://drive.google.com/file/d/1hxzXRthMumKSuFx59gXOPvdv1eDkmHSI/), [1.13.2](https://drive.google.com/file/d/17ZnQvCgFaniWkaTn6QcpCYQCOGmezEtk/), [1.14.0](https://drive.google.com/file/d/1zVy8k4mpIZLqsPNMrwdHy3xRaaTo_tz4/), [1.16.2-1.16.3](https://drive.google.com/file/d/1Kn5X6SRsRo8gCepapd238Og6TMguznSH/), [1.17.0-1.19.1](https://drive.google.com/file/d/1ALQASIAfW35dB7ebAwgHDB7RwrgYzV5k/), [1.20-1.27](https://drive.google.com/file/d/1W3x3tVJ4E3K6y8NG9QZZvUijfceEX57A/))
 
 - Requirements: [BS Utils](https://github.com/Kylemc1413/Beat-Saber-Utils), [BeatSaberMarkupLanguage](https://github.com/monkeymanboy/BeatSaberMarkupLanguage)
 
-- **Tested only on 1.27 with lite version with VRM 0.x*
+- **Tested only on 1.27 with Lite version with VRM 0.x*
 
-- VRM 1.0 support is not tested
+- VRM 1.0 support is not noted
 
 ### Desktop Mate ([Steam](https://store.steampowered.com/app/3301060/Desktop_Mate/)) ✅*
 
