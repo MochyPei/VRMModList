@@ -12,15 +12,17 @@ This is a list of softwave that supports VRM avatars, or mods that add's support
 
 Table of Contents
 
-* [VRM x Software](https://github.com/MochyPei/VRMModList/blob/main/index.md#vrm-software)
+* [VRM Software](https://github.com/MochyPei/VRMModList/blob/main/index.md#vrm-software)
 
 * [VRM 0.x Software](https://github.com/MochyPei/VRMModList/blob/main/index.md#vrm-0x-software)
 
 * [VRM 1.0 Software](https://github.com/MochyPei/VRMModList/blob/main/index.md#vrm-10-software)
 
-* [VRM x Mods](https://github.com/MochyPei/VRMModList/blob/main/index.md#vrm-mods)
+* [VRM Mods](https://github.com/MochyPei/VRMModList/blob/main/index.md#vrm-mods)
 
 * [VRM 0.x Mods](https://github.com/MochyPei/VRMModList/blob/main/index.md#vrm-0x-mods)
+
+* [VRM 1.0 Mods](https://github.com/MochyPei/VRMModList/blob/main/index.md#vrm-10-mods)
 
 * [Other related software](https://github.com/MochyPei/VRMModList/blob/main/index.md#other-related-software)
 
@@ -233,6 +235,12 @@ Table of Contents
 [![Qavatars](https://i.ytimg.com/vi/DGRi8A0p1cY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAuB65anGjRJHDWoOkIl02zlALitA)](https://github.com/BSQ-VRM/VRM-Qavatars)
 
 - Mod is outdated (works on versions below 1.37)
+
+
+
+# VRM 1.0 Mods
+
+### It's nothing here (for now)
 
 
 
