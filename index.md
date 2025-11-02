@@ -36,9 +36,9 @@ Table of Contents
 
 - Supported versions from 2.93 to 4.2 and later
 
-### Vnyan
+### VNyan
 
-[![Vnyan](https://img.itch.zone/aW1hZ2UvMTc4MjA4OS8xMzA5NDMzNC5wbmc=/347x500/fKnv98.png)](https://suvidriel.itch.io/vnyan)
+[![VNyan](https://img.itch.zone/aW1hZ2UvMTc4MjA4OS8xMzA5NDMzNC5wbmc=/347x500/fKnv98.png)](https://suvidriel.itch.io/vnyan)
 
 - It also supports vsfavatars
 
