@@ -162,19 +162,27 @@ Table of Contents
 
 - VRM 1.0 support is not noted
 
-## Lethal Company
+## Lethal Company ✅*
 
-### Better Lethal VRM ([GitHub](https://github.com/OomJan/BetterLethalVRM))
+### Better Lethal VRM ([GitHub](https://github.com/OomJan/BetterLethalVRM)) ✅*
 
 [![BetterLethalVRM](https://gcdn.thunderstore.io/live/repository/icons/OomJan-BetterLethalVRM-1.0.1.png.128x128_q95.png)](https://thunderstore.io/c/lethal-company/p/OomJan/BetterLethalVRM/)
 
+- Supports dynamic bones
+
 - VRM 1.0 support is not noted (*but maybe supports*)
 
-### Lethal VRM
+- **Tested on v73 with VRM 0.x*
+
+### Lethal VRM ✅*
 
 [![LethalVRM](https://gcdn.thunderstore.io/live/repository/icons/Ooseykins-LethalVRM-1.0.7.png.128x128_q95.png)](https://thunderstore.io/c/lethal-company/p/Ooseykins/LethalVRM/)
 
+- Dynamic bones is not supported
+
 - VRM 1.0 support is not noted (*but maybe supports*)
+
+- **Tested on v73 with VRM 0.x*
 
 ### From the Depths
 
